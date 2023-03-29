@@ -1,135 +1,135 @@
 [[WolframAppDiscovery]]
 arch = "aarch64"
-git-tree-sha1 = "a63ff3c707ad9a2a4de3d2c49e3a00cac4a2fc78"
+git-tree-sha1 = "eae126d358288f08e831f77c6a04b6eb309c231a"
 os = "macos"
 
     [[WolframAppDiscovery.download]]
-    sha256 = "f4c1cf4f97b4e6f91ebf195c42d658d38ed31e8f68890cbe62e5c4523056f56b"
-    url = "https://github.com/JuliaBinaryWrappers/WolframAppDiscovery_jll.jl/releases/download/WolframAppDiscovery-v0.4.3+0/WolframAppDiscovery.v0.4.3.aarch64-apple-darwin.tar.gz"
+    sha256 = "fde36c5a9a4960794434d3da9d0044592d8450f38fd0b669c557195c52e73bf3"
+    url = "https://github.com/JuliaBinaryWrappers/WolframAppDiscovery_jll.jl/releases/download/WolframAppDiscovery-v0.4.4+0/WolframAppDiscovery.v0.4.4.aarch64-apple-darwin.tar.gz"
 [[WolframAppDiscovery]]
 arch = "aarch64"
-git-tree-sha1 = "6df3d74d56a4d5d036ae5db890fdb0ab75f1f844"
+git-tree-sha1 = "c72095f35632962b7880f08828c7b9ded5f3fae1"
 libc = "glibc"
 os = "linux"
 
     [[WolframAppDiscovery.download]]
-    sha256 = "b93c4d46f279e39cf7b98f08ad61787eed8de337eed6a0a9ca73eeb2a2221824"
-    url = "https://github.com/JuliaBinaryWrappers/WolframAppDiscovery_jll.jl/releases/download/WolframAppDiscovery-v0.4.3+0/WolframAppDiscovery.v0.4.3.aarch64-linux-gnu.tar.gz"
+    sha256 = "6682d5b7476114c77462b789624a85efe81c3aeee7b2d46a28feb992d60d64d7"
+    url = "https://github.com/JuliaBinaryWrappers/WolframAppDiscovery_jll.jl/releases/download/WolframAppDiscovery-v0.4.4+0/WolframAppDiscovery.v0.4.4.aarch64-linux-gnu.tar.gz"
 [[WolframAppDiscovery]]
 arch = "aarch64"
-git-tree-sha1 = "cd80abcf8b9ecb2e093a31e2d9db5e9c0c1b468a"
+git-tree-sha1 = "e863ccc7e36fa9e944b2201c9acd95ff88a6b0f8"
 libc = "musl"
 os = "linux"
 
     [[WolframAppDiscovery.download]]
-    sha256 = "358e73f4f7ad194a985ad55f671c45383aaa6d8fac25512b7438c83b4c9a666f"
-    url = "https://github.com/JuliaBinaryWrappers/WolframAppDiscovery_jll.jl/releases/download/WolframAppDiscovery-v0.4.3+0/WolframAppDiscovery.v0.4.3.aarch64-linux-musl.tar.gz"
+    sha256 = "fd167c4eac6d0cdceb5d42967272170e67e78d245df25ec1acc0243288d15d0f"
+    url = "https://github.com/JuliaBinaryWrappers/WolframAppDiscovery_jll.jl/releases/download/WolframAppDiscovery-v0.4.4+0/WolframAppDiscovery.v0.4.4.aarch64-linux-musl.tar.gz"
 [[WolframAppDiscovery]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "bb251dcf2a606130fef146df79a98e9d3f3ff258"
+git-tree-sha1 = "99ed22b994d2c4643fa506549410e4dbe4e17d49"
 libc = "glibc"
 os = "linux"
 
     [[WolframAppDiscovery.download]]
-    sha256 = "621068a4c00fd0a1cca1fdd07956729c15545e389afcb4a5190d2d3962d78210"
-    url = "https://github.com/JuliaBinaryWrappers/WolframAppDiscovery_jll.jl/releases/download/WolframAppDiscovery-v0.4.3+0/WolframAppDiscovery.v0.4.3.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "09395db368a2c22b37357a2a5a347f4b59410ebc58aa9623d3421b21bf48ea54"
+    url = "https://github.com/JuliaBinaryWrappers/WolframAppDiscovery_jll.jl/releases/download/WolframAppDiscovery-v0.4.4+0/WolframAppDiscovery.v0.4.4.armv6l-linux-gnueabihf.tar.gz"
 [[WolframAppDiscovery]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "97869c6f581bf433dc553444f1ddcb4235e9ac91"
+git-tree-sha1 = "73256430a9c260e2aa0be02feceae4ae64179b3b"
 libc = "musl"
 os = "linux"
 
     [[WolframAppDiscovery.download]]
-    sha256 = "1b3bcf78c2b3c3e01150ef6046c8915bc7aff5937dd49124ec2f827e122e5a38"
-    url = "https://github.com/JuliaBinaryWrappers/WolframAppDiscovery_jll.jl/releases/download/WolframAppDiscovery-v0.4.3+0/WolframAppDiscovery.v0.4.3.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "bf4ec4d5ec3d457a4a60a5ae5f315206006f0d99266f89973a28d779da2d8480"
+    url = "https://github.com/JuliaBinaryWrappers/WolframAppDiscovery_jll.jl/releases/download/WolframAppDiscovery-v0.4.4+0/WolframAppDiscovery.v0.4.4.armv6l-linux-musleabihf.tar.gz"
 [[WolframAppDiscovery]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "d10c5d3e50f7d50d6464d3eeaadcc210df419734"
+git-tree-sha1 = "f166028c722c59aedf5e4233d34459f0725ca3dc"
 libc = "glibc"
 os = "linux"
 
     [[WolframAppDiscovery.download]]
-    sha256 = "62d0def8480cf7a1ee7332e4416ee76e1bcd21de8b1d0da5715852dc1ad27ca8"
-    url = "https://github.com/JuliaBinaryWrappers/WolframAppDiscovery_jll.jl/releases/download/WolframAppDiscovery-v0.4.3+0/WolframAppDiscovery.v0.4.3.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "6b339af3b50e8ed2b85678433ae58f3744e96ed62109abfd71e26e17fec25a7f"
+    url = "https://github.com/JuliaBinaryWrappers/WolframAppDiscovery_jll.jl/releases/download/WolframAppDiscovery-v0.4.4+0/WolframAppDiscovery.v0.4.4.armv7l-linux-gnueabihf.tar.gz"
 [[WolframAppDiscovery]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "dd2082b7085ae93f40cdeaba3c265f9c29e41450"
+git-tree-sha1 = "fd2ac6d726dcb4ac7ebccf08ae54fce89cbfa68d"
 libc = "musl"
 os = "linux"
 
     [[WolframAppDiscovery.download]]
-    sha256 = "bb2a23e405d976a5e6bb263e4c9a31a2b4e62807e2d329346774f92a8ebaadf9"
-    url = "https://github.com/JuliaBinaryWrappers/WolframAppDiscovery_jll.jl/releases/download/WolframAppDiscovery-v0.4.3+0/WolframAppDiscovery.v0.4.3.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "9ab39a3ca6a2cc767defedc6329c1eac75f33995487f2988a9e081bc213910c3"
+    url = "https://github.com/JuliaBinaryWrappers/WolframAppDiscovery_jll.jl/releases/download/WolframAppDiscovery-v0.4.4+0/WolframAppDiscovery.v0.4.4.armv7l-linux-musleabihf.tar.gz"
 [[WolframAppDiscovery]]
 arch = "i686"
-git-tree-sha1 = "a3bff2d95a846f6f15360303797d2088c62c4d89"
+git-tree-sha1 = "a2b1a4f82dcbd857db8efc69ec56090e5511119f"
 libc = "glibc"
 os = "linux"
 
     [[WolframAppDiscovery.download]]
-    sha256 = "4b97e2f522ffef83fb821f07b818799bf10d7ab724f31aad45435c0ba6dc7343"
-    url = "https://github.com/JuliaBinaryWrappers/WolframAppDiscovery_jll.jl/releases/download/WolframAppDiscovery-v0.4.3+0/WolframAppDiscovery.v0.4.3.i686-linux-gnu.tar.gz"
+    sha256 = "175a856af2cbbe040c47f45be5c51d9c8729e5adffdf3d73e67d314c7fad7f38"
+    url = "https://github.com/JuliaBinaryWrappers/WolframAppDiscovery_jll.jl/releases/download/WolframAppDiscovery-v0.4.4+0/WolframAppDiscovery.v0.4.4.i686-linux-gnu.tar.gz"
 [[WolframAppDiscovery]]
 arch = "i686"
-git-tree-sha1 = "087fbdbc1c5b8356fbaa5f54f4ef8cced737e3ef"
+git-tree-sha1 = "771982ea39f792dc52dca2c4c433821f24f06316"
 libc = "musl"
 os = "linux"
 
     [[WolframAppDiscovery.download]]
-    sha256 = "70021b5b5fec24893f23cf69c3ff8eb450b6dea05b71a42c2391ff8b2a2789ae"
-    url = "https://github.com/JuliaBinaryWrappers/WolframAppDiscovery_jll.jl/releases/download/WolframAppDiscovery-v0.4.3+0/WolframAppDiscovery.v0.4.3.i686-linux-musl.tar.gz"
+    sha256 = "544bf2fc131a3b82057cfa6735ccfa132e72e241a54b0d6a1f4e81b579e9a3ee"
+    url = "https://github.com/JuliaBinaryWrappers/WolframAppDiscovery_jll.jl/releases/download/WolframAppDiscovery-v0.4.4+0/WolframAppDiscovery.v0.4.4.i686-linux-musl.tar.gz"
 [[WolframAppDiscovery]]
 arch = "powerpc64le"
-git-tree-sha1 = "27177dea9e6e9061b6a10085c902f9baef4ddd2e"
+git-tree-sha1 = "4f599e6bb3866dc43f0b0737916b2a0dd0d8fc83"
 libc = "glibc"
 os = "linux"
 
     [[WolframAppDiscovery.download]]
-    sha256 = "eca85bff4ce798ee6b0594e3ecd2b8718f34e198ac623e52b6f571da67468be2"
-    url = "https://github.com/JuliaBinaryWrappers/WolframAppDiscovery_jll.jl/releases/download/WolframAppDiscovery-v0.4.3+0/WolframAppDiscovery.v0.4.3.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "2ba231960efec186a13141f64a0d7decbabbb33074dbeb9bfd4e5a13fd0db789"
+    url = "https://github.com/JuliaBinaryWrappers/WolframAppDiscovery_jll.jl/releases/download/WolframAppDiscovery-v0.4.4+0/WolframAppDiscovery.v0.4.4.powerpc64le-linux-gnu.tar.gz"
 [[WolframAppDiscovery]]
 arch = "x86_64"
-git-tree-sha1 = "dce493b9adc6f027f8d10e1ab608cada561b7ddc"
+git-tree-sha1 = "45a2986dc883cdd8c5a6afa469f1ecfc32417b9e"
 os = "macos"
 
     [[WolframAppDiscovery.download]]
-    sha256 = "9d89670d941c8e61693bbeae6b3e849deb3dc37f3c24551e502a0b8d696c70f5"
-    url = "https://github.com/JuliaBinaryWrappers/WolframAppDiscovery_jll.jl/releases/download/WolframAppDiscovery-v0.4.3+0/WolframAppDiscovery.v0.4.3.x86_64-apple-darwin.tar.gz"
+    sha256 = "ab0e73d98013a6e42f804bcef3fb8b78441a0a76e32443ce68ba5ff6a6ff9cdd"
+    url = "https://github.com/JuliaBinaryWrappers/WolframAppDiscovery_jll.jl/releases/download/WolframAppDiscovery-v0.4.4+0/WolframAppDiscovery.v0.4.4.x86_64-apple-darwin.tar.gz"
 [[WolframAppDiscovery]]
 arch = "x86_64"
-git-tree-sha1 = "04d9dc941b3c6703606fc0b8ca21611dc7523a6c"
+git-tree-sha1 = "c19816da93459263de3cf347065edeee8594bf16"
 libc = "glibc"
 os = "linux"
 
     [[WolframAppDiscovery.download]]
-    sha256 = "3e1e888ad923a9c6b53daf814329e2a00a51045ba003eebd1b088d83c0153142"
-    url = "https://github.com/JuliaBinaryWrappers/WolframAppDiscovery_jll.jl/releases/download/WolframAppDiscovery-v0.4.3+0/WolframAppDiscovery.v0.4.3.x86_64-linux-gnu.tar.gz"
+    sha256 = "620bb92020a93e7aa35369d32e9997f2d91cb325e4d401558666b1e920c6da14"
+    url = "https://github.com/JuliaBinaryWrappers/WolframAppDiscovery_jll.jl/releases/download/WolframAppDiscovery-v0.4.4+0/WolframAppDiscovery.v0.4.4.x86_64-linux-gnu.tar.gz"
 [[WolframAppDiscovery]]
 arch = "x86_64"
-git-tree-sha1 = "e1ac6b10190fa0a553e0d695d6a73743de1041d7"
+git-tree-sha1 = "77712365a7887394a516ad9e0e10a70dcc81cb76"
 libc = "musl"
 os = "linux"
 
     [[WolframAppDiscovery.download]]
-    sha256 = "07f4cc1f6d894b55f1375b02f2d5b10b004e3ac6f92d7975ba8fd5b263da4782"
-    url = "https://github.com/JuliaBinaryWrappers/WolframAppDiscovery_jll.jl/releases/download/WolframAppDiscovery-v0.4.3+0/WolframAppDiscovery.v0.4.3.x86_64-linux-musl.tar.gz"
+    sha256 = "82f76287c765e0cb230fed01dbe5e03ac375a874bc32e899896303f66bc747ea"
+    url = "https://github.com/JuliaBinaryWrappers/WolframAppDiscovery_jll.jl/releases/download/WolframAppDiscovery-v0.4.4+0/WolframAppDiscovery.v0.4.4.x86_64-linux-musl.tar.gz"
 [[WolframAppDiscovery]]
 arch = "x86_64"
-git-tree-sha1 = "68e5d0746e428b62e3e98ae8f556453cefc2434f"
+git-tree-sha1 = "20570f3f8f9e966078d882984dc21b00c82e17b4"
 os = "freebsd"
 
     [[WolframAppDiscovery.download]]
-    sha256 = "8550c36ea211ab66fa5736ec102950e63af387168596c69083187befdb343634"
-    url = "https://github.com/JuliaBinaryWrappers/WolframAppDiscovery_jll.jl/releases/download/WolframAppDiscovery-v0.4.3+0/WolframAppDiscovery.v0.4.3.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "4314d24f705152cba0efb4c6362e8f98f79759d0c94111a60d4f9a779376d5f3"
+    url = "https://github.com/JuliaBinaryWrappers/WolframAppDiscovery_jll.jl/releases/download/WolframAppDiscovery-v0.4.4+0/WolframAppDiscovery.v0.4.4.x86_64-unknown-freebsd.tar.gz"
 [[WolframAppDiscovery]]
 arch = "x86_64"
-git-tree-sha1 = "bb18f7203f8369c28594422366cb29761cff0340"
+git-tree-sha1 = "74e0c1ba6bfc94c251fa2c6927358d7af725979c"
 os = "windows"
 
     [[WolframAppDiscovery.download]]
-    sha256 = "f15447b2cfc154441db7d25055822959f1c48254901f723510ce2cf8ef4ca9a0"
-    url = "https://github.com/JuliaBinaryWrappers/WolframAppDiscovery_jll.jl/releases/download/WolframAppDiscovery-v0.4.3+0/WolframAppDiscovery.v0.4.3.x86_64-w64-mingw32.tar.gz"
+    sha256 = "704f01dd51b85424296546a917899623665054f7e18ed8dc78085146a8cdcc27"
+    url = "https://github.com/JuliaBinaryWrappers/WolframAppDiscovery_jll.jl/releases/download/WolframAppDiscovery-v0.4.4+0/WolframAppDiscovery.v0.4.4.x86_64-w64-mingw32.tar.gz"
